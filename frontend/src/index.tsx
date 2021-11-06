@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'assets/css/styles.css';
 import App from './App';
+import 'assets/css/styles.css';
+import 'bootstrap/dist/css/bootstrap.css';
+
+
 
 
 ReactDOM.render(
@@ -11,3 +13,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
