@@ -72,3 +72,19 @@ cd backend
 ```
 
 ## Front-end 
+Pré-requisitos: npm / yarn 
+
+```bash
+# Clonar repositório
+git clone https://github.com/joelitonmiotto/dsvendas.git
+
+# Entrar na pasta do projeto front-end
+cd frontend
+
+# Instalar dependências
+yarn install
+
+# Executar o projeto
+yarn start
+```
+ <br>
