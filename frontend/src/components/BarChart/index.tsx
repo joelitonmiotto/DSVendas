@@ -67,8 +67,7 @@ type SeriesData = {
         options={{ ...options, xaxis: chartData.labels }}
         series={chartData.series}
         type="bar"
-      /*  height="240" */
-        width="100%" height="225"
+        height="240"
         
       />
     );
