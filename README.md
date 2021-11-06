@@ -11,7 +11,7 @@
 
 # Sobre o projeto
 
-O **DS Vendas** é um programa de desenvolvimento Full Stack de um Dashborad de vendas realizada durante a semana durante a **Semana Spring React**, evento organizado pela  [DevSuperior - Escola de programação](https://devsuperior.com.br "Site da DevSuperior").
+O **DS Vendas** é um programa de desenvolvimento Full Stack de um Dashborad de vendas realizada durante a semana durante a ** Semana  Spring  React**, evento organizado pela  [DevSuperior - Escola de programação](https://devsuperior.com.br "Site da DevSuperior").
 
 
 **Acesse a opção "Online":**
